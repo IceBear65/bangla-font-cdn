@@ -1,0 +1,21 @@
+/* Kalpurush */
+@font-face {
+  font-family: 'Kalpurush';
+  src: url('../fonts/kalpurush/kalpurush.woff2') format('woff2'),
+       url('../fonts/kalpurush/kalpurush.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* SolaimanLipi */
+@font-face {
+  font-family: 'SolaimanLipi';
+  src: url('../fonts/solaimanlipi/solaimanlipi.woff2') format('woff2'),
+       url('../fonts/solaimanlipi/solaimanlipi.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Add more fonts like this */
