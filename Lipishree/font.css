@@ -1,0 +1,9 @@
+/* fonts/lipishree/font.css */
+@font-face {
+  font-family: 'Lipishree';
+  src: url('lipishree.woff2') format('woff2'),
+       url('lipishree.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
