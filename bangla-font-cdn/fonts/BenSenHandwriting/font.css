@@ -1,9 +1,0 @@
-/* fonts/bensenhandwriting/font.css */
-@font-face {
-  font-family: 'BenSenHandwriting';
-  src: url('bensenhandwriting.woff2') format('woff2'),
-       url('bensenhandwriting.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
-}

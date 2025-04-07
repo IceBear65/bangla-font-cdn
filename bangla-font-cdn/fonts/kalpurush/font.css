@@ -1,9 +1,0 @@
-/* kalpurush/font.css */
-@font-face {
-  font-family: 'Kalpurush';
-  src: url('kalpurush.woff2') format('woff2'),
-       url('kalpurush.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
-}
