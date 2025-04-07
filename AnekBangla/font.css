@@ -1,0 +1,8 @@
+/* AnekBangla Font */
+@font-face {
+  font-family: 'AnekBangla';
+  src: url('https://cdn.jsdelivr.net/gh/IceBear65/bangla-font-cdn@latest/AnekBangla/font.woff2') format('woff2'),
+       url('https://cdn.jsdelivr.net/gh/IceBear65/bangla-font-cdn@latest/AnekBangla/font.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
