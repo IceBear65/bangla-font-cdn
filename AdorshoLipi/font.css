@@ -1,0 +1,8 @@
+/* font.css */
+@font-face {
+  font-family: 'AdorshoLipi';
+  src: url('https://cdn.jsdelivr.net/gh/IceBear65/bangla-font-cdn@latest/AdorshoLipi/AdorshoLipi.woff2') format('woff2'),
+       url('https://cdn.jsdelivr.net/gh/IceBear65/bangla-font-cdn@latest/AdorshoLipi/AdorshoLipi.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
