@@ -1,4 +1,4 @@
-# 🇧🇩 Bangla Font CDN - By [icebear65](https://github.com/icebear65)
+# Bangla Font CDN - By [icebear65](https://github.com/icebear65)
 
 Welcome to the **Bangla Font CDN** – a collection of popular Bangla fonts hosted through GitHub and available via **jsDelivr** and **GitHub Pages CDN**. Use these fonts in your web projects easily and efficiently without downloading or self-hosting.
 
