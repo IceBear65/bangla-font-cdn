@@ -1,286 +1,131 @@
-# Bangla Font CDN - by [icebear65](https://github.com/icebear65)
+# 🇧🇩 Bangla Font CDN - By [icebear65](https://github.com/icebear65)
 
-This repository hosts 12 popular Bangla fonts in WOFF2 format with CSS support. You can use them on your website using CDN via [jsDelivr](https://www.jsdelivr.com/).
-
----
-
-## 📦 How to Use
-
-Copy and paste the code snippets below to embed the fonts into your website.
+Welcome to the **Bangla Font CDN** – a collection of popular Bangla fonts hosted through GitHub and available via **jsDelivr** and **GitHub Pages CDN**. Use these fonts in your web projects easily and efficiently without downloading or self-hosting.
 
 ---
 
-### Adorsho Lipi
+## 📂 Repository Structure
 
-**STANDARD**
+```
+
+bangla-font-cdn/
+│
+├── font/
+│   ├── adorsho-lipi/
+│   │   ├── font.woff2
+│   │   └── font.css
+│   ├── apona-lohit/
+│   ├── baloo-da-2/
+│   ├── bangla/
+│   ├── bensen-handwriting/
+│   ├── ekushey-lohit/
+│   ├── kalpurush/
+│   ├── mukti/
+│   ├── nikosh/
+│   ├── noto-serif-bengali/
+│   ├── siyam-rupali/
+│   └── solaiman-lipi/
+└── preview\.html
+
+````
+
+---
+
+## 🌐 Live Font CDN Usage
+
+### ✅ Use via **GitHub Pages** (Standard)
+Add this to the `<head>` of your HTML:
+```html
+<link href="https://icebear65.github.io/bangla-font-cdn/font/adorsho-lipi/font.css" rel="stylesheet">
+````
+
+### ✅ Use via **jsDelivr CDN**
+
+Add this to the `<head>` of your HTML:
+
 ```html
 <link href="https://cdn.jsdelivr.net/gh/icebear65/bangla-font-cdn@main/font/adorsho-lipi/font.css" rel="stylesheet">
 ```
 
-**IMPORT in CSS**
+---
+
+## 📥 Import in CSS
+
 ```css
 @import url('https://cdn.jsdelivr.net/gh/icebear65/bangla-font-cdn@main/font/adorsho-lipi/font.css');
 ```
 
-**Specify in CSS**
-```css
-font-family: 'Adorsho Lipi', sans-serif;
+---
 
+## 🎨 Specify in CSS
+
+```css
 body {
-  font-family: 'Adorsho Lipi', sans-serif;
+    font-family: 'Adorsho Lipi', sans-serif;
 }
 ```
+
+Replace `'Adorsho Lipi'` with your desired font name from the list below.
 
 ---
 
-### Apona Lohit
+## 🧾 Available Fonts
 
-**STANDARD**
-```html
-<link href="https://cdn.jsdelivr.net/gh/icebear65/bangla-font-cdn@main/font/apona-lohit/font.css" rel="stylesheet">
-```
-
-**IMPORT in CSS**
-```css
-@import url('https://cdn.jsdelivr.net/gh/icebear65/bangla-font-cdn@main/font/apona-lohit/font.css');
-```
-
-**Specify in CSS**
-```css
-font-family: 'Apona Lohit', sans-serif;
-
-body {
-  font-family: 'Apona Lohit', sans-serif;
-}
-```
+* Adorsho Lipi
+* Apona Lohit
+* Baloo Da 2
+* Bangla
+* Bensen Handwriting
+* Ekushey Lohit
+* Kalpurush
+* Mukti
+* Nikosh
+* Noto Serif Bengali
+* Siyam Rupali
+* Solaiman Lipi
 
 ---
 
-### Baloo Da 2
+## 🔍 Font Preview
 
-**STANDARD**
-```html
-<link href="https://cdn.jsdelivr.net/gh/icebear65/bangla-font-cdn@main/font/baloo-da-2/font.css" rel="stylesheet">
+You can preview all fonts on a single dark-themed page with sample Bangla text.
+
+### 👉 Live Preview (via GitHub Pages):
+
+[https://icebear65.github.io/bangla-font-cdn/preview.html](https://icebear65.github.io/bangla-font-cdn/preview.html)
+
+### 📖 Sample Text Used:
+
+```
+অসহায় জাতি মরিছে ডুবিয়া, জানেনা সন্তরণ  
+কান্ডারী! আজ দেখিব তোমার মাতৃমুক্তিপণ!  
+"হিন্দু না ওরা মুসলিম?" ওই জিজ্ঞাসে কোন জন?  
+কান্ডারী! বল ডুবিছে মানুষ, সন্তান মোর মা'র!
 ```
 
-**IMPORT in CSS**
-```css
-@import url('https://cdn.jsdelivr.net/gh/icebear65/bangla-font-cdn@main/font/baloo-da-2/font.css');
-```
+Each font section renders this poem using its respective typeface.
 
-**Specify in CSS**
-```css
-font-family: 'Baloo Da 2', sans-serif;
 
-body {
-  font-family: 'Baloo Da 2', sans-serif;
-}
-```
+## 🛡️ License
+
+All fonts are redistributed under their original open-source licenses. Please ensure you have permission to use and distribute any additional fonts.
 
 ---
 
-### Bangla
+## 🙌 Contribute
 
-**STANDARD**
-```html
-<link href="https://cdn.jsdelivr.net/gh/icebear65/bangla-font-cdn@main/font/bangla/font.css" rel="stylesheet">
-```
+Feel free to:
 
-**IMPORT in CSS**
-```css
-@import url('https://cdn.jsdelivr.net/gh/icebear65/bangla-font-cdn@main/font/bangla/font.css');
-```
+* Submit new fonts
+* Improve styling
+* Report issues or bugs
+* Suggest improvements
 
-**Specify in CSS**
-```css
-font-family: 'Bangla', sans-serif;
-
-body {
-  font-family: 'Bangla', sans-serif;
-}
-```
+> Star ⭐ this repo if it helped you!
 
 ---
 
-### Bensen Handwriting
+## 🔗 Connect with Me
 
-**STANDARD**
-```html
-<link href="https://cdn.jsdelivr.net/gh/icebear65/bangla-font-cdn@main/font/bensen-handwriting/font.css" rel="stylesheet">
-```
-
-**IMPORT in CSS**
-```css
-@import url('https://cdn.jsdelivr.net/gh/icebear65/bangla-font-cdn@main/font/bensen-handwriting/font.css');
-```
-
-**Specify in CSS**
-```css
-font-family: 'Bensen Handwriting', cursive;
-
-body {
-  font-family: 'Bensen Handwriting', cursive;
-}
-```
-
----
-
-### Ekushey Lohit
-
-**STANDARD**
-```html
-<link href="https://cdn.jsdelivr.net/gh/icebear65/bangla-font-cdn@main/font/ekushey-lohit/font.css" rel="stylesheet">
-```
-
-**IMPORT in CSS**
-```css
-@import url('https://cdn.jsdelivr.net/gh/icebear65/bangla-font-cdn@main/font/ekushey-lohit/font.css');
-```
-
-**Specify in CSS**
-```css
-font-family: 'Ekushey Lohit', serif;
-
-body {
-  font-family: 'Ekushey Lohit', serif;
-}
-```
-
----
-
-### Kalpurush
-
-**STANDARD**
-```html
-<link href="https://cdn.jsdelivr.net/gh/icebear65/bangla-font-cdn@main/font/kalpurush/font.css" rel="stylesheet">
-```
-
-**IMPORT in CSS**
-```css
-@import url('https://cdn.jsdelivr.net/gh/icebear65/bangla-font-cdn@main/font/kalpurush/font.css');
-```
-
-**Specify in CSS**
-```css
-font-family: 'Kalpurush', sans-serif;
-
-body {
-  font-family: 'Kalpurush', sans-serif;
-}
-```
-
----
-
-### Mukti
-
-**STANDARD**
-```html
-<link href="https://cdn.jsdelivr.net/gh/icebear65/bangla-font-cdn@main/font/mukti/font.css" rel="stylesheet">
-```
-
-**IMPORT in CSS**
-```css
-@import url('https://cdn.jsdelivr.net/gh/icebear65/bangla-font-cdn@main/font/mukti/font.css');
-```
-
-**Specify in CSS**
-```css
-font-family: 'Mukti', sans-serif;
-
-body {
-  font-family: 'Mukti', sans-serif;
-}
-```
-
----
-
-### Nikosh
-
-**STANDARD**
-```html
-<link href="https://cdn.jsdelivr.net/gh/icebear65/bangla-font-cdn@main/font/nikosh/font.css" rel="stylesheet">
-```
-
-**IMPORT in CSS**
-```css
-@import url('https://cdn.jsdelivr.net/gh/icebear65/bangla-font-cdn@main/font/nikosh/font.css');
-```
-
-**Specify in CSS**
-```css
-font-family: 'Nikosh', sans-serif;
-
-body {
-  font-family: 'Nikosh', sans-serif;
-}
-```
-
----
-
-### Noto Serif Bengali
-
-**STANDARD**
-```html
-<link href="https://cdn.jsdelivr.net/gh/icebear65/bangla-font-cdn@main/font/noto-serif-bengali/font.css" rel="stylesheet">
-```
-
-**IMPORT in CSS**
-```css
-@import url('https://cdn.jsdelivr.net/gh/icebear65/bangla-font-cdn@main/font/noto-serif-bengali/font.css');
-```
-
-**Specify in CSS**
-```css
-font-family: 'Noto Serif Bengali', serif;
-
-body {
-  font-family: 'Noto Serif Bengali', serif;
-}
-```
-
----
-
-### Siyam Rupali
-
-**STANDARD**
-```html
-<link href="https://cdn.jsdelivr.net/gh/icebear65/bangla-font-cdn@main/font/siyam-rupali/font.css" rel="stylesheet">
-```
-
-**IMPORT in CSS**
-```css
-@import url('https://cdn.jsdelivr.net/gh/icebear65/bangla-font-cdn@main/font/siyam-rupali/font.css');
-```
-
-**Specify in CSS**
-```css
-font-family: 'Siyam Rupali', sans-serif;
-
-body {
-  font-family: 'Siyam Rupali', sans-serif;
-}
-```
-
----
-
-### Solaiman Lipi
-
-**STANDARD**
-```html
-<link href="https://cdn.jsdelivr.net/gh/icebear65/bangla-font-cdn@main/font/solaiman-lipi/font.css" rel="stylesheet">
-```
-
-**IMPORT in CSS**
-```css
-@import url('https://cdn.jsdelivr.net/gh/icebear65/bangla-font-cdn@main/font/solaiman-lipi/font.css');
-```
-
-**Specify in CSS**
-```css
-font-family: 'Solaiman Lipi', sans-serif;
-
-body {
-  font-family: 'Solaiman Lipi', sans-serif;
-}
-```
-
+Created by **[icebear65](https://github.com/icebear65)**
+If you liked this, check out my other projects and contributions!
